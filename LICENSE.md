@@ -1,0 +1,509 @@
+Priority, Authorship, Rights Reservation, Public-Interest Use, and Commercial-Use Restrictions
+
+This publication formally establishes the authorial, intellectual, scientific, mathematical, computational, methodological, predictive, and chronological priority of Artur Chindyaskin over the Chindyaskin Q₉ Nuclear-Mass Corridor Law and its associated proton-anchored isotope-mass coordinate system, Q₉ nuclear coordinate formula, Q₉ Nuclear Ruler, natural isotope proof ladder, N=23 actinide-gate structure, N=24 / A≈322 target calculation, superheavy corridor map, audit structure, terminology, tables, figures, calculation packages, and all related applications within the Interlayer Circulation Model (ICM).
+
+This work is created and published in the interest of humanity, the development of science, open human knowledge, public scientific verification, state-supported scientific progress, and the future generations of Earth.
+
+The central protected law introduced, structured, named, formalized, and publicly disclosed in this publication is:
+
+Chindyaskin Q₉ Nuclear-Mass Corridor Law
+
+with the core nuclear coordinate formula:
+
+N_nuc = 46 × log base Q9 of (M_nuclear / m_p)
+
+
+
+and the Q₉ nuclear ruler:
+
+M_N = m_p × Q9^(N / 46)
+
+
+
+This publication also establishes public authorial and methodological priority over the following connected structures:
+
+the proton anchor;
+
+the Q₉ nuclear coordinate;
+
+the Q₉ Nuclear Ruler;
+
+the Q₉ nuclear-mass corridor architecture;
+
+the method for calculating Q₉ nuclear-mass corridor centers;
+
+the method for calculating Q₉ nuclear-mass corridor boundaries;
+
+the method for calculating isotope-to-node residuals;
+
+the method for classifying tight, good, corridor, and outside nodes;
+
+the method for deriving future Q₉ nuclear target centers from the proton anchor;
+
+the method for converting the Q₉ nuclear ruler into a staged superheavy search corridor;
+
+the method for linking N=23, N=24, A≈322, N=184, A≈318–319, and A≈325–326 into one corridor-calculation architecture;
+
+the electron-corrected nuclear-mass coordinate conversion;
+
+the Q0 / Q1 / Q2 / Q3 Data-Quality Firewall;
+
+the natural isotope proof ladder from O-18 to Hg-199;
+
+the N=12–22 integer-node occupancy result;
+
+the 11/11 tight natural-node result;
+
+the residual-audit structure;
+
+the NIST full-pass mass-coordinate audit;
+
+the AME/NUBASE nuclear-property audit;
+
+the Monte Carlo random-control structure;
+
+the deterministic sliding-window control;
+
+the threshold stress-test structure;
+
+the leave-one-out robustness structure;
+
+the N=23 role-separated actinide gate;
+
+the Rf-253 / Cf-252 / Th-232 role separation;
+
+the N=24 / A≈322 central nuclear target calculation;
+
+the N=184 shelf placement;
+
+the A≈318–319 compound-center residue trace;
+
+the A≈325–326 compound requirement;
+
+the superheavy corridor depth map;
+
+the “You Are Here” distance-to-A≈322 map;
+
+the search-economy priority ledger;
+
+the audit robustness matrix;
+
+the figure sequence;
+
+the table sequence;
+
+the calculation architecture;
+
+the publication structure;
+
+the terminology;
+
+the explanatory sequence;
+
+the associated ICM interpretation;
+
+and all substantially similar derived implementations, computational reproductions, corridor-search systems, isotope-candidate ranking structures, superheavy-candidate ranking systems, prediction ledgers, database structures, software tools, proprietary knowledge systems, commercial scientific products, and automated analytical systems based on this work.
+
+The protected method includes the calculation of Q₉ nuclear-mass corridor centers using the proton-anchored Q₉ ruler, the conversion of isotope masses into Q₉ nuclear coordinates, the calculation of nearest-node residuals, the classification of node occupancy, the construction of natural proof ladders, the projection of future nuclear-mass corridors from occupied nodes into the superheavy search field, and the translation of future Q₉ node centers into staged search regions, including gate, shelf, trace, center, and compound-requirement zones.
+
+M_N = m_p × Q9^(N / 46)
+
+
+
+N_nuc = 46 × log base Q9 of (M_nuclear / m_p)
+
+
+
+Delta N = N_nuc − N_nearest
+
+
+
+|Delta N| = absolute distance from the nearest Q₉ integer node.
+
+
+
+This corridor-calculation method is part of the protected original structure of the Chindyaskin Q₉ Nuclear-Mass Corridor Law.
+
+Nothing in this notice claims ownership over third-party factual measurements, public-domain facts, isotope masses, official nuclear data, NIST data, AME data, NUBASE data, physical reality, natural isotopes, chemical elements, nuclear reactions, laboratory events, or future physical discoveries in themselves.
+
+All rights are reserved over the original formulas, methods, coordinate systems, selection, arrangement, calculation architecture, audit design, prediction-map structure, terminology, explanatory framing, tables, figures, scripts, datasets as organized for this work, publication packages, visual presentation, protected original structure, and all original analytical applications created by Artur Chindyaskin.
+
+Permitted Public-Interest Use
+
+The author permits the following uses worldwide, provided that clear attribution is preserved to Artur Chindyaskin, the Chindyaskin Q₉ Nuclear-Mass Corridor Law, and the Interlayer Circulation Model (ICM):
+
+non-commercial scientific review;
+
+independent non-commercial recalculation;
+
+public scientific discussion;
+
+citation and quotation;
+
+educational use;
+
+university teaching and non-commercial academic review;
+
+public-interest scientific research;
+
+governmental scientific use;
+
+state-supported scientific research;
+
+public-laboratory research;
+
+national-laboratory review;
+
+intergovernmental scientific research;
+
+public nuclear-science review;
+
+public physics and chemistry education;
+
+public-interest isotope-table analysis;
+
+public-interest superheavy-element analysis;
+
+public scientific verification;
+
+archival preservation;
+
+independent non-commercial criticism or comparison.
+
+This permission is worldwide, non-exclusive, non-transferable, non-sublicensable, non-commercial, attribution-required, and limited to scientific, educational, governmental, archival, verification, and public-interest purposes.
+
+The scientific content is made available for humanity’s non-commercial scientific progress.
+
+Required Attribution
+
+All permitted use requires clear attribution to:
+
+Artur Chindyaskin, author of the Chindyaskin Q₉ Nuclear-Mass Corridor Law and the Interlayer Circulation Model (ICM).
+
+Recommended attribution:
+
+Artur Chindyaskin — Chindyaskin Q₉ Nuclear-Mass Corridor Law — Interlayer Circulation Model (ICM), 2026.
+
+Attribution must not be removed, weakened, hidden, displaced, renamed, replaced, made ambiguous, buried inside a generic reference list, converted into anonymous “internal method” status, or treated as a minor citation while the law, formula, coordinate architecture, corridor logic, audit structure, tables, figures, scripts, datasets, prediction map, or method for calculating Q₉ nuclear-mass corridors is being used.
+
+Governmental and Public-Interest Use
+
+Governmental, state-supported, university, public-laboratory, intergovernmental, educational, public scientific, public-interest nuclear-science, physics, isotope-science, chemistry, and fundamental-science use is permitted worldwide with attribution, when the use remains non-commercial and public-interest oriented.
+
+This permission does not grant any state, institution, agency, contractor, company, platform, laboratory, database, research group, AI system, public-private entity, or state-linked commercial entity ownership, exclusivity, commercial rights, rebranding rights, AI-training rights, text-and-data-mining rights, proprietary implementation rights, database rights, software rights, prediction-product rights, sublicensing rights, or independent-origin claims.
+
+If a private contractor, commercial entity, state-linked commercial entity, AI company, software vendor, analytics provider, consulting firm, paid laboratory, database vendor, or proprietary platform uses these materials in connection with a governmental, public scientific, or state-supported project, that entity receives no independent commercial rights.
+
+The use must remain limited to the authorized public-interest scientific purpose and must preserve clear attribution to Artur Chindyaskin and the Interlayer Circulation Model (ICM).
+
+Governmental or state-supported public-interest use does not include exclusive appropriation, hidden internal extraction, private contractor exploitation, commercial procurement products, paid analytical services, proprietary software deployment, commercial prediction systems, institutional rebranding, classified exclusive capture, or removal of authorial attribution without prior written permission from Artur Chindyaskin.
+
+Commercial Use Strictly Prohibited Without Written Permission
+
+Commercial use is strictly prohibited without explicit prior written permission from Artur Chindyaskin.
+
+No commercial license is granted by this publication.
+
+Commercial use includes, without limitation:
+
+direct or indirect monetary use;
+
+paid services;
+
+proprietary internal use;
+
+commercial research products;
+
+commercial analytics;
+
+consulting products;
+
+paid technical reports;
+
+commercial software;
+
+commercial databases;
+
+commercial prediction products;
+
+commercial corridor-search tools;
+
+commercial isotope-search tools;
+
+commercial superheavy-candidate ranking tools;
+
+commercial nuclear-target selection tools;
+
+commercial nuclear-map products;
+
+commercial scientific-assistant products;
+
+commercial retrieval systems;
+
+commercial vector databases;
+
+commercial embeddings;
+
+database enrichment;
+
+product integration;
+
+platform integration;
+
+resale;
+
+sublicensing;
+
+redistribution for commercial purposes;
+
+paid access products;
+
+commercial scientific platforms;
+
+commercial model evaluation;
+
+commercial benchmark creation;
+
+commercial AI training;
+
+commercial model fine-tuning;
+
+commercial retrieval-augmented systems;
+
+commercial visualization products;
+
+commercial nuclear-search dashboards;
+
+commercial scientific data products;
+
+commercial implementation of the method for calculating Q₉ nuclear-mass corridors;
+
+commercial implementation of the Q₉ Nuclear Ruler;
+
+commercial implementation of the N=23 gate / N=24 target / A≈322 prediction architecture;
+
+commercial implementation of Q₉ isotope-to-node residual calculation;
+
+commercial implementation of Q₉ candidate ranking;
+
+commercial implementation of superheavy target prioritization;
+
+or any use by or for a commercial entity that creates business, operational, proprietary, financial, strategic, competitive, institutional, analytical, or product advantage.
+
+No private company, commercial contractor, proprietary platform, AI company, database vendor, software vendor, consulting firm, commercial laboratory, paid analytics provider, commercial research product, paid scientific product, proprietary technical-report provider, commercial nuclear-analysis tool, commercial isotope-search platform, commercial superheavy-candidate engine, prediction engine, catalogue-ranking product, proprietary scientific assistant, or derived product may use, extract, package, automate, sell, monetize, train on, rebrand, deploy, incorporate, or commercially exploit this work or substantially similar derived implementations without written permission from the author.
+
+AI Training, TDM, Scraping, Embeddings, and Model Extraction Prohibited
+
+No permission is granted for:
+
+commercial AI training;
+
+non-consensual AI training;
+
+foundation-model training;
+
+generative-AI training;
+
+machine-learning training;
+
+model fine-tuning;
+
+model distillation;
+
+model evaluation dataset creation;
+
+embedding extraction;
+
+vectorization;
+
+retrieval-augmented generation for commercial systems;
+
+retrieval-augmented commercial systems;
+
+automated scraping;
+
+automated database ingestion;
+
+text and data mining;
+
+corpus creation;
+
+dataset creation;
+
+benchmark creation;
+
+synthetic-data generation;
+
+commercial scientific-assistant ingestion;
+
+proprietary knowledge-base construction;
+
+commercial formula engines;
+
+commercial nuclear-corridor search tools;
+
+commercial isotope-candidate ranking systems;
+
+commercial Q₉ nuclear-mass corridor calculation tools;
+
+commercial A≈322 target-search tools;
+
+commercial N=23 / N=24 nuclear-corridor tools;
+
+paid prediction systems;
+
+automated commercial knowledge extraction;
+
+commercial dataset enrichment;
+
+or any automated extraction or machine-processing pipeline that converts this article, repository, package, text, tables, figures, scripts, formulas, terminology, or audit structure into a model, database, embedding space, vector index, benchmark, corpus, proprietary tool, paid product, or commercial analytical system.
+
+Any such use requires explicit prior written permission from Artur Chindyaskin.
+
+This notice constitutes an express human-readable and machine-readable reservation of rights against text-and-data mining, AI training, model training, scraping, automated extraction, corpus creation, dataset creation, vectorization, embedding extraction, commercial machine processing, and proprietary scientific-assistant ingestion, to the fullest extent permitted by applicable law.
+
+All text-and-data-mining rights, AI-training rights, machine-learning rights, model-training rights, model fine-tuning rights, embedding rights, vector-database rights, automated-ingestion rights, scraping rights, corpus-creation rights, dataset-creation rights, benchmark-creation rights, synthetic-data-generation rights, database rights, software rights, commercial implementation rights, proprietary analytics rights, corridor-search rights, prediction-product rights, rebranding rights, naming rights, and derivative commercial exploitation rights are expressly reserved by Artur Chindyaskin.
+
+Scripts, CSV Files, Tables, Figures, Audit Materials, and Packages
+
+The included scripts, CSV files, XLSX files, JSON files, tables, figures, PNG table images, audit materials, Monte Carlo materials, documentation, manifests, ZIP archives, checked publication packages, calculation packages, insertion maps, source documents, and supplementary materials may be inspected and executed only for:
+
+non-commercial verification;
+
+non-commercial recalculation;
+
+educational review;
+
+public scientific review;
+
+governmental scientific review;
+
+state-supported public-interest scientific evaluation;
+
+independent non-commercial criticism or comparison;
+
+archival preservation.
+
+They may not be repackaged, sold, integrated into proprietary tools, converted into commercial software, used as training data, incorporated into commercial databases, converted into embeddings, ingested into vector databases, used to build proprietary scientific assistants, used for commercial prediction products, used for proprietary ranking engines, deployed as commercial scientific products, or incorporated into commercial analytics systems without prior written permission from Artur Chindyaskin.
+
+The existence of executable scripts, CSV tables, audit files, calculation packages, reproducibility materials, GitHub materials, Zenodo materials, downloadable article files, PNG table images, or figure files does not convert this work into open-source software, open data, public-domain material, or a permissively licensed computational package.
+
+Future Discoveries Inside the Q₉ Nuclear Corridor
+
+If future observations, isotope-table audits, nuclear experiments, superheavy-element searches, decay-chain analyses, detector events, archive reviews, catalogue analyses, institutional studies, public-laboratory reviews, governmental scientific programs, or independent calculations identify new isotopes, superheavy nuclides, decay structures, alpha chains, spontaneous-fission signatures, isomeric states, nuclear thresholds, reaction channels, compound-nucleus traces, final residues, or other physical phenomena inside the published Q₉ nuclear corridor, the observational or experimental discovery may belong to the detecting team.
+
+However, the Q₉ nuclear coordinate corridor, proton-anchored formula architecture, method for calculating Q₉ nuclear-mass corridors, natural isotope proof ladder, N=23 actinide-gate structure, Q₉ Nuclear Ruler, N=24 / A≈322 prediction map, N=184 shelf placement, A≈318–319 trace logic, A≈325–326 compound-requirement logic, search-economy roadmap, audit structure, table system, computational framework, terminology, and framework priority remain attributable to Artur Chindyaskin and the Chindyaskin Q₉ Nuclear-Mass Corridor Law.
+
+Detection priority and framework priority are separate.
+
+The detecting team may hold the observational or experimental discovery.
+
+The Q₉ coordinate map, nuclear-mass corridor law, calculation method, search logic, prediction structure, and ICM framework priority remain attributable to Artur Chindyaskin.
+
+No later observational discovery, isotope confirmation, laboratory result, decay-chain detection, archive identification, institutional analysis, commercial search result, automated detection, or state-supported nuclear finding inside the published Q₉ nuclear corridor may erase, weaken, rename, appropriate, rebrand, bypass, or hide the authorial priority of the Q₉ nuclear coordinate system, prediction structure, corridor logic, audit architecture, calculation method, and Interlayer Circulation Model framing publicly disclosed by Artur Chindyaskin.
+
+No Rebranding or Misattribution
+
+No person, institution, laboratory, university, company, platform, AI system, database, public-private entity, state-linked commercial entity, contractor, research group, automated scientific assistant, nuclear-analysis system, isotope-search system, superheavy-candidate ranking system, proprietary analytics system, or derived computational product may:
+
+remove the author’s name;
+
+weaken attribution;
+
+rename the law;
+
+rename the formula architecture;
+
+rename the Q₉ nuclear-mass corridor;
+
+rename the method for calculating Q₉ nuclear-mass corridors;
+
+rename the Q₉ Nuclear Ruler;
+
+rename the N=23 actinide gate;
+
+rename the A≈322 target corridor;
+
+rebrand the method;
+
+claim independent origin after publication;
+
+present substantially similar formulas, tables, scripts, corridor maps, search ledgers, audit structures, calculation packages, prediction maps, or computational structures as independently created;
+
+incorporate the work into proprietary systems while hiding the authorial source;
+
+use the work as an unnamed internal method;
+
+convert the work into a commercial product while treating the author as a minor citation;
+
+or claim priority over the Chindyaskin Q₉ Nuclear-Mass Corridor Law, its formula architecture, isotope-mass coordinate method, N-coordinate method, Q₉ Nuclear Ruler, natural proof ladder, N=23 gate, N=24 / A≈322 target, audit structure, table system, calculation packages, scripts, datasets, or associated ICM framing.
+
+Any substantially similar law, method, formula architecture, Q₉ nuclear-coordinate method, proton-anchored isotope-mass coordinate system, natural isotope proof ladder, actinide-gate map, N=184 shelf map, A≈322 superheavy target map, compound-residue split, audit structure, table system, calculation package, script logic, search ledger, prediction map, or computational implementation disclosed after this publication must not be presented as independently originated without acknowledging this prior public disclosure.
+
+No Transfer of Rights
+
+Downloading, copying, cloning, forking, viewing, storing, citing, discussing, recalculating, archiving, executing, testing, reviewing, translating, or referencing this article, repository, GitHub materials, Zenodo record, packages, figures, tables, scripts, or supplementary files does not transfer authorship, ownership, commercial rights, database rights, AI-training rights, model-training rights, text-and-data-mining rights, software rights, prediction-product rights, terminology rights, method rights, patent-related rights, trademark-related rights, naming rights, rebranding rights, sublicensing rights, or independent-origin rights.
+
+The public availability of this article, its GitHub repository, Zenodo DOI record, metadata, abstract, title, citation, related identifiers, repository references, downloadable files, scripts, tables, figures, PNG images, ZIP archives, or supplementary materials does not waive authorship, ownership, priority, attribution rights, moral rights, database rights, software rights, commercial rights, AI-training rights, text-and-data-mining rights, model-training rights, patent-related rights, trademark-related rights, method rights, terminology rights, prediction-ledger rights, audit-architecture rights, rights over future derived implementations, or any other reserved rights.
+
+No patent license, trademark license, database license, software license, sublicensing right, redistribution right, commercial implementation right, proprietary deployment right, exclusive right, model-training right, TDM right, rebranding right, or right to claim independent origin is granted by this public release.
+
+No Broader GitHub, Zenodo, Substack, or Web Permission
+
+The presence of this work on GitHub, Zenodo, Substack, the public web, search engines, archives, citation systems, downloadable package mirrors, or social-media previews does not make the work open source, open data, public domain, permissively licensed, commercially reusable, AI-trainable, or freely extractable.
+
+No GitHub fork, clone, download, raw-file view, issue, pull request, repository mirror, archive snapshot, automated copy, dependency scan, AI crawler visit, indexing event, repository backup, search-engine cache, Substack share, Zenodo download, DOI metadata record, citation export, or web snapshot creates a license beyond the permissions expressly stated here.
+
+Platform interface features, including “fork,” “clone,” “download,” “raw,” “share,” “copy link,” “embed,” “archive,” “cite,” or automated indexing, do not create permission to commercially use, extract, train on, repackage, rebrand, incorporate, vectorize, model-train on, or deploy this work.
+
+Authorial Priority and Rights Reservation
+
+This publication, the associated article page, the Zenodo DOI record, the GitHub repository, the license files, the supplementary packages, the calculation materials, the figures, the table images, the audit files, and the public timestamps together form a public authorship, priority, rights-reservation, and scientific-record structure for the Chindyaskin Q₉ Nuclear-Mass Corridor Law.
+
+This public record establishes authorial, intellectual, scientific, mathematical, computational, methodological, predictive, and chronological priority of Artur Chindyaskin over the Chindyaskin Q₉ Nuclear-Mass Corridor Law and its associated proton-anchored isotope-mass coordinate system, Q₉ nuclear coordinate formula, natural isotope proof ladder, Q₉ Nuclear Ruler, method for calculating Q₉ nuclear-mass corridors, N=23 gate, N=24 / A≈322 target, N=184 shelf, compound-residue split, audit logic, terminology, tables, figures, calculation packages, scripts, datasets, search corridors, prediction maps, and all related applications within the Interlayer Circulation Model (ICM).
+
+Summary
+
+Free for humanity’s non-commercial scientific progress.
+
+Free for public scientific review.
+
+Free for independent non-commercial recalculation.
+
+Free for educational and public-interest scientific use with attribution.
+
+Free for governmental, state-supported, university, public-laboratory, intergovernmental, public nuclear-science, isotope-science, physics, chemistry, and fundamental-science review with attribution.
+
+Closed to private commercial capture.
+
+Closed to commercial AI training.
+
+Closed to text-and-data-mining extraction without permission.
+
+Closed to scraping, embeddings, vector databases, and commercial model ingestion.
+
+Closed to proprietary scientific assistants.
+
+Closed to commercial prediction engines.
+
+Closed to commercial isotope-search, nuclear-corridor, superheavy-candidate, and candidate-ranking products.
+
+Closed to commercial database enrichment.
+
+Closed to commercial software deployment.
+
+Closed to commercial implementation of the method for calculating Q₉ nuclear-mass corridors.
+
+Closed to commercial implementation of Q₉ Nuclear Ruler systems.
+
+Closed to commercial implementation of N=23 / N=24 / A≈322 corridor-search tools.
+
+Closed to rebranding, misattribution, proprietary extraction, false independent-origin claims, and unauthorized commercial implementation.
+
+Reservation of All Rights
+
+All rights not expressly granted in this custom rights notice remain fully reserved by Artur Chindyaskin.
+
+Mandatory legal exceptions that cannot be excluded by contract remain unaffected, but no voluntary license, permission, waiver, commercial authorization, AI-training permission, text-and-data-mining permission, proprietary implementation permission, sublicensing permission, rebranding permission, or derivative commercial exploitation permission is granted beyond the limited public-interest and non-commercial review permissions expressly stated above.
+
+© 2026 Artur Chindyaskin. All rights reserved.
