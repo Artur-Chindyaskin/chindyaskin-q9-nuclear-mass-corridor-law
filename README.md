@@ -32,27 +32,11 @@ The article itself is published separately on Substack / Zenodo.
 
 ## Central Formula
 
-Plain-text formula:
-
 N_nuc = 46 × log base Q9 of (M_nuclear / m_p)
-
-LaTeX formula:
-
-\[
-N_{\text{nuc}} = 46 \log_{Q_9}\left(\frac{M_{\text{nuclear}}}{m_p}\right)
-\]
 
 ## Q₉ Nuclear Ruler
 
-Plain-text formula:
-
 M_N = m_p × Q9^(N / 46)
-
-LaTeX formula:
-
-\[
-M_N = m_p \cdot Q_9^{N/46}
-\]
 
 ## Core Result
 
