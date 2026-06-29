@@ -506,4 +506,69 @@ All rights not expressly granted in this custom rights notice remain fully reser
 
 Mandatory legal exceptions that cannot be excluded by contract remain unaffected, but no voluntary license, permission, waiver, commercial authorization, AI-training permission, text-and-data-mining permission, proprietary implementation permission, sublicensing permission, rebranding permission, or derivative commercial exploitation permission is granted beyond the limited public-interest and non-commercial review permissions expressly stated above.
 
+ADDENDUM: ENHANCED PROTECTION AGAINST EQUIVALENT EXPLOITATION, DERIVATIVE PRIVATIZATION, AI / TDM MISAPPROPRIATION, AND UNAUTHORIZED COMMERCIAL USE
+
+This Addendum forms an integral part of the License and applies to all materials contained in this repository, including all formulas, methods, coordinate systems, tables, figures, scripts, verification materials, manifests, descriptions, and any related Chindyaskin Q₉ / ICM scientific framework materials published by Artur Chindyaskin, unless expressly superseded in writing by the Author.
+
+1. Protection Against Mathematical, Structural, and Functional Equivalence
+
+The prohibitions and restrictions set forth in this License apply not only to exact literal copies of the Chindyaskin Q₉ Nuclear-Mass Corridor Law, its formulas, tables, terminology, and explanatory structure, but also to any mathematically equivalent, structurally isomorphic, functionally identical, scaled, transformed, re-parameterized, reformatted, re-based, re-labeled, or proportionally derived implementation that exploits the same underlying physical, numerical, coordinate, predictive, or analytical architecture discovered and published by Artur Chindyaskin.
+
+This includes, without limitation:
+
+equivalent logarithmic or exponential transformations;
+substitutions of Q₉ with another numerical base or coefficient producing the same relational structure;
+scaled or normalized versions of the same corridor-calculation method;
+renamed or rebranded coordinate systems reproducing the same nuclear-mass corridor logic;
+derivative prediction engines, databases, scripts, models, workflows, or software systems that reproduce the same analytical outcome;
+AI-generated or machine-rewritten variants that conceal, obscure, compress, paraphrase, or relabel the original method while retaining its functional structure.
+
+Any commercial, proprietary, private, or restricted-use organization that uses a mathematically modified, transformed, re-encoded, or rebranded version of the method to achieve substantially the same predictive, analytical, or search-corridor outcome shall be deemed to be using a derivative implementation of this work and shall be subject to the prohibitions and enforcement provisions of this License.
+
+2. Prevention of Derivative Privatization and Conditional Public-Interest Use
+
+The non-commercial, public-interest permissions granted by this License are conditioned upon preservation of open scientific benefit.
+
+Permitted non-commercial use by public-interest researchers, universities, public laboratories, governmental bodies, intergovernmental organizations, national laboratories, or educational institutions does not grant any right to privatize, classify for proprietary exploitation, commercially sublicense, incorporate into closed commercial platforms, assign to private contractors for proprietary use, or convert the formulas, methods, models, coordinate systems, verification materials, or derivative implementations into private commercial assets.
+
+If any public-interest, governmental, intergovernmental, national-laboratory, university, or educational use of this work leads to subsequent derivative research, software, databases, prediction systems, experimental planning tools, technical workflows, or applied technologies based upon or enabled by this work, such derivative outputs must preserve clear attribution to Artur Chindyaskin and must remain available under a substantially similar open-access, non-commercial, public-interest license.
+
+If any such publicly permitted use is transferred, sublicensed, privatized, classified for commercial monopoly, integrated into proprietary contractor systems, or used to create commercial advantage without prior written authorization from Artur Chindyaskin, the free public-interest permission granted by this License is automatically revoked retroactively to the date of first unauthorized use, and all commercial or proprietary entities involved shall be treated as unauthorized users.
+
+3. Public Priority, Prior-Art Notice, and Anti-Rebranding Protection
+
+The authorial, chronological, and scientific priority of the Chindyaskin Q₉ Nuclear-Mass Corridor Law and its associated coordinate architecture is anchored to the public publication records, GitHub repository timestamps, Zenodo DOI records, public manifests, cryptographic hashes, and associated public scientific releases created by Artur Chindyaskin.
+
+These records constitute public notice and prior-art evidence of the Author’s priority over the disclosed Q₉ nuclear-mass corridor architecture, formulas, coordinate logic, verification structure, table architecture, prediction-roadmap structure, and associated methods.
+
+Any later commercial, proprietary, institutional, or private claim that reproduces, rebrands, reformulates, or functionally derives from this architecture after the publication date of this work shall be subject to challenge as a derivative, re-encoded, or substantially equivalent use of the published Chindyaskin Q₉ / ICM framework.
+
+No later user may remove, obscure, replace, dilute, or misrepresent the name of Artur Chindyaskin, the Chindyaskin Q₉ Nuclear-Mass Corridor Law, the Chindyaskin Q₉ framework, or the Interlayer Circulation Model (ICM) in connection with any derivative, equivalent, or functionally dependent use.
+
+4. AI, Text-and-Data Mining, Embedding, Vectorization, and Model-Training Restrictions
+
+No permission is granted for commercial AI training, machine-learning ingestion, text-and-data mining, scraping, vector embedding, semantic database enrichment, retrieval-augmented generation, model fine-tuning, model evaluation, synthetic-data generation, automated formula extraction, or incorporation into any commercial AI, scientific-discovery platform, prediction engine, proprietary database, or automated research system.
+
+This prohibition applies to exact text, formulas, tables, scripts, metadata, abstracts, paraphrased versions, transformed versions, and functionally equivalent mathematical or structural representations of the work.
+
+Any commercial AI company, proprietary platform, software vendor, private contractor, database operator, or automated research provider that ingests, mines, embeds, trains on, extracts, reproduces, re-encodes, or operationalizes this work without prior written authorization shall be treated as an unauthorized commercial user.
+
+5. Liquidated Damages, Restitution, and Enforcement
+
+Because unauthorized commercial, AI, database, platform, or proprietary exploitation of this work may cause harm that is difficult to quantify precisely, including loss of priority, loss of attribution, market displacement, unauthorized enrichment, dilution of authorial rights, misappropriation of scientific architecture, and costs of international enforcement, any violating commercial entity, proprietary platform, software vendor, AI company, database operator, private contractor, or affiliated entity agrees, to the maximum extent permitted by applicable law, that liquidated damages of USD $10,000,000 shall apply per distinct unauthorized commercial implementation, product integration, AI-model use, database enrichment, prediction-system deployment, systematic usage event, or proprietary derivative implementation.
+
+This amount is intended as a reasonable pre-estimate of damages, enforcement burden, and intellectual restitution, and not as a penalty.
+
+The Author reserves all rights to seek injunctive relief, attribution correction, removal of infringing materials, disgorgement of profits, statutory damages, actual damages, contractual remedies, attorney fees, expert costs, preservation orders, audit access, and any other remedies available under applicable law.
+
+No failure or delay by the Author in enforcing any provision of this License shall constitute a waiver of rights.
+
+6. No Waiver of Reserved Rights
+
+All rights not expressly granted are reserved by Artur Chindyaskin.
+
+No license is granted for commercial use, proprietary implementation, AI training, text-and-data mining, derivative privatization, rebranding, unauthorized sublicensing, closed-platform integration, or functional exploitation of mathematically equivalent implementations.
+
+Any use outside the permissions expressly granted in this License requires prior written authorization from Artur Chindyaskin.
+
 © 2026 Artur Chindyaskin. All rights reserved.
