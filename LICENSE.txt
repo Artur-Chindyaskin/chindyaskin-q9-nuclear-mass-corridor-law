@@ -570,4 +570,4 @@ All rights not expressly granted are reserved by Artur Chindyaskin.
 No license is granted for commercial use, proprietary implementation, AI training, text-and-data mining, derivative privatization, rebranding, unauthorized sublicensing, closed-platform integration, or functional exploitation of mathematically equivalent implementations.
 
 Any use outside the permissions expressly granted in this License requires prior written authorization from Artur Chindyaskin.
-© 2026 Artur Chindyaskin. All rights reserved.
+© 2026 Artur Chindyaskin. All rights reserved. 
